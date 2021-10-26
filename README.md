@@ -12,9 +12,9 @@ This workshop will aid in students development in technical communication,
 teaching about the language of errors, bugs and debugging. Also, it will
 deliver methods for problems, including;
 
--- Breaking down problems
--- Understanding the context of a problem
--- Planning solutions and refactoring
+- Breaking down problems
+- Understanding the context of a problem
+- Planning solutions and refactoring
 
 ## Method
 
