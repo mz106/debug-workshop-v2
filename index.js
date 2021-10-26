@@ -1,18 +1,18 @@
 
-const employees = ['sandra jones', 'chris lundy', 'andy smith', 'lucy davis', 'ben pleasance', 'sophie darling', 'jill white', 'fred greene', 'james black'];
+const employee = ['sandra jones', 'chris lundy', 'andy smith', 'lucy davis', 'ben pleasance', 'sophie darling', 'jill white', 'fred greene', 'james black'];
 const bonus = ['sandra jones', 'ben pleasance', 'fred greene']
 const payDay = true;
 const checkedEmployees = [];
 
 const checkName = (employees, bonus) => {
     for (let i = 0; i < employees.length; i++) {
-        for (let j = 0; j < bonus.length; j++) {
-            if(employees[i] === bonus[j]) {
-                checkedEmployees.push(bonus[j]);   
+        for (let i = 0; i < bonus.length; i++) {
+            if(employees[i] === bonus[i]) {
+                checkedEmployees.push(bonus[i]);   
             } 
         }
     }
-    return checkedEmployees;
+    
 };
 
 const sayHello = (payDay, employees, bonus) => {
