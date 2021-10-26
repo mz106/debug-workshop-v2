@@ -66,6 +66,6 @@ A retro on the quality of the workshop/instruction will then follow.
 
 ## Bugs
 
-bug 1 line two has const employee should be const employees 
-bug 2 checkedEmployees not returned checkName
-bug 3 variable i used twice in for loops - change 2nd loop to j checkName
+- bug 1 line two has const employee should be const employees 
+- bug 2 checkedEmployees not returned checkName
+- bug 3 variable i used twice in for loops - change 2nd loop to j checkName
