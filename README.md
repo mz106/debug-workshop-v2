@@ -6,7 +6,22 @@ The purpose is to teach and give practice in problem-solving methods
 and to familarise students with the error stack and debugging techniques, 
 and instill a sense of teamwork.
 
+## Particulars
+
+- This workshop is aimed at students who have completed the first week of
+the Masters course
+
+- The workshop is expected to last for circa one hour, with a 10 -15 minute 
+retro. 
+
 ## Specification Compliance
+
+## Note
+
+This is a work-in-progress and is a single workshop of a planned series. Once
+more data/feedback had been acquired, and with more complex problems designed 
+later stages of the Masters course, more of the specification requirements can
+be reached. 
 
 3.1.1 Problem Solving - 'Break down a problem into smaller problems' - being 
 given a problem with three stages of solution, with each stage requiring 
@@ -23,6 +38,11 @@ out implicit keywords of problems (what should I be thinking about?)' -
 When analysing the error stack, students will be exposed to direct analysis,
 teaching them to hone-in on the keywords of the given error. 
 
+3.1.8/3.1.9 Problem Solving - 'Create and follow a plan when solving problems/
+Refactor a plan when it doesn’t lead to a solution' - encourage students to 
+discuss the problem and develop a plan e.g. console.log to find the cause of errors,
+and then to change if no solution is reached. 
+
 3.2.1 Technical Communication - 'Accurately explain the project they are 
 working on from a technical perspective' - by introducing introducing 
 technical language used in error tracing/debugging e.g. the difference between 
@@ -33,24 +53,16 @@ delivery.
 conversation' - by teaching new language displaying the need for exactness
 and clarity in order to accomplish a goal.  
 
-This workshop will aid in students development in technical communication, 
-teaching about the language of errors, bugs and debugging. Also, it will
-deliver methods for problems, including;
-
-- Breaking down problems
-- Understanding the context of a problem
-- Planning solutions and refactoring
-
 ## Method
 
-After a brief introduction from the instructor, students will be placed into 
-teams in which they shall run the program and read the errorstack. 
-From here, they shall atempt to resolve the first bugs. An instructor(s) will 
-be on hand to offer guidance, but NOT to resolve theissue for the students. 
+After a brief introduction from the instructor, students will follow an 
+instructor-led debugging session, in which they shall be asked knowledge/
+comprehension questions, with technical language given. From here, they 
+shall attempt to guide the instructor towards a solution. The instructor 
+shall offer guidance with direct questions, but NOT provide a solution, unless
+students become unable. 
 
-Once the teams have a fully working program, a retro will be help, 
-concerning both the techniques that they have used, and the quality
-of the workshop itself.
+A retro on the quality of the workshop/instruction will then follow. 
 
 ## Bugs
 
