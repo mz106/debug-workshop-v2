@@ -3,7 +3,7 @@
 ## Aim
 
 The purpose is to teach and give practice in problem-solving methods 
-and to familarise students with the error stack and debugging techniques, 
+and to familarise students with the stack trace and debugging techniques, 
 and instill a sense of teamwork.
 
 ## Particulars
@@ -35,7 +35,7 @@ the problem in their own words.
 
 3.1.3/3.1.4 Problem Solving - 'Find the key explicit keywords of problems/Pull 
 out implicit keywords of problems (what should I be thinking about?)' -
-When analysing the error stack, students will be exposed to direct analysis,
+When analysing the stack trace, students will be exposed to direct analysis,
 teaching them to hone-in on the keywords of the given error. 
 
 3.1.8/3.1.9 Problem Solving - 'Create and follow a plan when solving problems/
@@ -44,7 +44,7 @@ discuss the problem and develop a plan e.g. console.log to find the cause of err
 and then to change if no solution is reached. 
 
 3.2.1 Technical Communication - 'Accurately explain the project they are 
-working on from a technical perspective' - by introducing introducing 
+working on from a technical perspective' - by introducing 
 technical language used in error tracing/debugging e.g. the difference between 
 a bug and an error, and renforcing technical language learnt up to workshop
 delivery. 
